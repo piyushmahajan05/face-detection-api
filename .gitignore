@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *.so
+__pycache__/
+runs/
+yolov5/
+
 
 # Virtual environment
 .venv/
@@ -20,3 +24,6 @@ Thumbs.db
 
 # PyTorch model files
 *.pt
+__pycache__/
+runs/
+yolov5/
